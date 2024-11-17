@@ -1,20 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Giancarlo 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Finance+and+Economics+Graduate;Aspiring+Quantitative+Researcher;Passionate+about+Data+Analysis+and+Trading" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://https://www.linkedin.com/in/giancarlonannetti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter" alt="Twitter">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
 
