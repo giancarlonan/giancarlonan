@@ -1,12 +1,11 @@
-# Hello there 👋
+# Hi there 👋
 
 **I am a Master's Student in Finance and Economics at LSE 🌞**
 
 - 📊 Passionate about macroeconomics, trading, and algorithmic strategies.
 - 💻 I use: `.python`, `.r`, `.matlab`, `.pandas`, `.numpy`, `.excel`
 - 🌍 I'm actively exploring **financial engineering, algorithmic trading, and market-making strategies**.
-- 🛠 Key Projects: **Algorithmic Trading Models**, **Translating Academic Notes in Code**, **Arbitrage**
-
+- ☘️ Check out the website I recently built — a growing community designed to bring traders together. Visit it [here](https://trendytoros.com)
 ---
 
 ## 🖥️ Coding Knowledge
