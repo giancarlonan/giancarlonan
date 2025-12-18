@@ -1,7 +1,5 @@
 # Hi there 👋
 
-**I am a Master's Student in Finance and Economics at LSE 🌞**
-
 - 📊 Passionate about macroeconomics, trading, and algorithmic strategies.
 - 💻 I use: `.python`, `.r`, `.matlab`, `.pandas`, `.numpy`, `.excel`
 - 🌍 I'm actively exploring **financial engineering, algorithmic trading, and market-making strategies**.
